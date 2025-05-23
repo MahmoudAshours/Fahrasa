@@ -21,7 +21,7 @@ Designed for fast and efficient full-text search over large datasets, it support
 ## Why Fahrasa?
 
 Traditional databases struggle with fast text search over massive datasets.  
-GoTextSearch leverages inverted indexes for lightning-fast lookup and supports flexible query semantics, making it ideal for:
+Fahrasa leverages inverted indexes for lightning-fast lookup and supports flexible query semantics, making it ideal for:
 
 - Search engines
 - Document repositories
@@ -39,9 +39,9 @@ GoTextSearch leverages inverted indexes for lightning-fast lookup and supports f
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/gotextsearch.git
-cd gotextsearch
-go build ./cmd/gotextsearch
+git clone https://github.com/yourusername/Fahrasa.git
+cd Fahrasa
+go build ./cmd/Fahrasa
 ```
 
 ### Usage:
